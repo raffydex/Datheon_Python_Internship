@@ -2,12 +2,15 @@
 
 ## Project 1: Hangman Word Guessing Game
 
-**Internship Programme:
-** Datheon Python Internship
-**Project:** Hangman Word Guessing Game
-**Author:** ABDRAFIU ABDMOJEED AYOYINKA
-**Programming Language:** Python 3
+# Datheon Python Internship
 
+**Internship Programme:** Datheon Python Internship
+
+**Project:** Hangman Word Guessing Game
+
+**Author:** ABDRAFIU ABDMOJEED AYOYINKA
+
+**Programming Language:** Python 3
 
 ---
 
